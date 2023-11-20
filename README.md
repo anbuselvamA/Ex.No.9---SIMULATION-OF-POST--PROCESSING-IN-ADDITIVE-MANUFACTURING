@@ -46,9 +46,10 @@
 ![123_2](https://github.com/Sellakumar1987/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/2801d001-e6cd-4b6c-9d5f-712067d3bc3c)
 
 ## Output:
+![image](https://github.com/anbuselvamA/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/119559871/4c6c80ef-2599-43a1-8f5b-a275e10ee463)
 
-### Name:
-### Register Number:
+### Name:A.Anbuselvam
+### Register Number:212222240009
 
 ## Result: 
 ### Thus the simulation on the Postprocessing in additive manufacturing is completed.
